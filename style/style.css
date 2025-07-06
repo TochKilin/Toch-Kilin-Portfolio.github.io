@@ -478,7 +478,7 @@ color: white;
 .box-send-email .box-mail-1 .box-mail{
   padding: 20px;
   margin-top: 15px;
-  margin-left: 25px;
+  /* margin-left: 25px; */
    background-color: #d6dbdf2d;
 
   /* box-sizing: border-box;
@@ -503,7 +503,7 @@ color: white;
 }
 .frm-control{
   /* float: left; */
-  width: 80%;
+  width: 100%;
   
 }
 .box-send-email .box-mail-1 .box-mail input.ms-1{
